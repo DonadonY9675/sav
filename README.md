@@ -4,13 +4,12 @@ _Este proyecto busca brindar un espacio educativo adaptado a las necesidades de 
 
 ## Comenzando 🚀
 
-_Este contenido te permitirán conocer mejor el proyecto._
-
+_Este contenido te permitirá conocer mejor el proyecto._
 
 ### Pre-requisitos 📋
 
 _Java 1.8_
-
+_Node js 12.9.1 _
 
 ## Construido con 🛠️
 
@@ -24,8 +23,14 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 _Equipo que ayudo a levantar el proyecto desde sus inicios_
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Antaurco Aragón, Gabriel** - *Desarrollador Backend* - [Antaurco](https://github.com/GabrielxGiancarlo)
+* **Arroyo Romo, Alisson** - *Desarrollador Backend* - [Arroyo]()
+* **Barbieri Lizama, Giordano** - *Desarrollador Frontend* - [Barbieri]()
+* **Casas Rime, Jordan** - *Desarrollador Backend* - [Casas]()
+* **Moya Bramon, Donadoni** - *DBA* - [MoyaB](https://github.com/DonadonY9675)
+* **Quispe Taquire, Luis** - *Desarrollador Frontend* - [QuispeT]()
+* **Quispe Lucas, Jhon** - *Desarrollador Frontend* - [QuispeL]()
+* **Yauri Martinez, Luis** - *Jefe de Proyecto* - [Yauri](https://github.com/LuisYauri)
 
 ## Licencia 📄
 
