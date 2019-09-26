@@ -8,8 +8,8 @@ _Este contenido te permitirá conocer mejor el proyecto._
 
 ### Pre-requisitos 📋
 
-_Java 1.8
-_Node js 12.9.1
+_Java 1.8_
+_Node js 12.9.1_
 
 ## Construido con 🛠️
 
