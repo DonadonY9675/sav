@@ -8,8 +8,8 @@ _Este contenido te permitirá conocer mejor el proyecto._
 
 ### Pre-requisitos 📋
 
-_Java 1.8_
-_Node js 12.9.1 _
+_Java 1.8
+_Node js 12.9.1
 
 ## Construido con 🛠️
 
@@ -24,7 +24,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 _Equipo que ayudo a levantar el proyecto desde sus inicios_
 
 * **Antaurco Aragón, Gabriel** - *Desarrollador Backend* - [Antaurco](https://github.com/GabrielxGiancarlo)
-* **Arroyo Romo, Alisson** - *Desarrollador Backend* - [Arroyo]()
+* **Arroyo Romo, Alisson** - *Desarrollador Backend* - [Arroyo](https://github.com/AlissonKarina)
 * **Barbieri Lizama, Giordano** - *Desarrollador Frontend* - [Barbieri]()
 * **Casas Rime, Jordan** - *Desarrollador Backend* - [Casas]()
 * **Moya Bramon, Donadoni** - *DBA* - [MoyaB](https://github.com/DonadonY9675)
@@ -38,10 +38,7 @@ Este proyecto está bajo la Licencia GPL
 
 ## Agradecimientos 🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
+* Profesor Jose Chagua.
 
 
 
